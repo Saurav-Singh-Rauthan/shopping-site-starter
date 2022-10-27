@@ -3,7 +3,7 @@ var sidebar = document.querySelector(".sidebar");
 var btn = document.querySelector(".nav-switch");
 var links = document.querySelectorAll(".links");
 
-//Fill int he displayModal and HideModal functions the methods are already linked to buttons
+//Fill in the displayModal and HideModal functions the methods are already linked to buttons
 
 const displayModal = () => {};
 
